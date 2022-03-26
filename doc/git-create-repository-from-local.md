@@ -2,6 +2,10 @@
 
 > from: https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github
 
+1. Install GitHub CLI.
+
+> GitHub CLI is an open source tool for using GitHub from your computer's command line. GitHub CLI can simplify the process of adding an existing project to GitHub using the command line.
+
 1. In the command line, navigate to the root directory of your project.
 
 1. Initialize the local directory as a Git repository.
