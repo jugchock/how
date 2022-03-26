@@ -1,0 +1,21 @@
+{
+  "name": "how",
+  "version": "1.0.0",
+  "description": "Personal reminders, searchable and viewable from the command line",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jug Chock",
+  "license": "MIT",
+  "bin": {
+    "how": "bin/how.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "glob": "^7.2.0",
+    "inquirer": "^8.2.2",
+    "yargs": "^17.4.0"
+  }
+}
