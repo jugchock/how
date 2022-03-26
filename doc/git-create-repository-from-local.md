@@ -6,6 +6,10 @@
 
 > GitHub CLI is an open source tool for using GitHub from your computer's command line. GitHub CLI can simplify the process of adding an existing project to GitHub using the command line.
 
+```bash
+brew install gh
+```
+
 1. In the command line, navigate to the root directory of your project.
 
 1. Initialize the local directory as a Git repository.
